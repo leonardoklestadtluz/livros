@@ -1,5 +1,5 @@
 # Código Limpo Completo 
 
 - capítulo: 1
-- frase: O Grande Replanejamento
-- página: 15
+- frase: O Principal dilema
+- página: 16
