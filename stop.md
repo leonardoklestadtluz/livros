@@ -1,5 +1,5 @@
 # Código Limpo Completo 
 
 - capítulo: 1
-- frase: O Código
-- página: 12
+- frase: O Grande Replanejamento
+- página: 15
