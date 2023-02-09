@@ -1,5 +1,5 @@
 # Código Limpo Completo 
 
 - capítulo: 1
-- frase: Código Limpo
-- página: 11
+- frase: O Código
+- página: 12
